@@ -19,4 +19,4 @@
 
 ### Updates
 
-[ ] MacOS Version 
+- [ ] MacOS Version 
